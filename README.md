@@ -21,7 +21,9 @@ On the /Send project terminal run the commands:
 - `dotnet run "Fifth message"` 
 
 The messages should be "split" or balanced between receivers:
+
 _In one terminal:_
+
 `=> [x] Received First message...`
 
 `=> [x] Received Third message...`
@@ -29,6 +31,7 @@ _In one terminal:_
 `=> [x] Received Fifth message...`
 
 _In the other terminal:_
+
 `=> [x] Received Second message...`
 
 `=> [x] Received Fourth message...`
