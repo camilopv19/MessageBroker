@@ -22,10 +22,13 @@ On the /Send project terminal run the commands:
 
 The messages should be "split" or balanced between receivers:
 _In one terminal:_
-`=> [x] Received First message...<br>
-=> [x] Received Third message...<br>
+`=> [x] Received First message...
+
+=> [x] Received Third message...
+
 => [x] Received Fifth message...`
 
 _In the other terminal:_
-`=> [x] Received Second message...<br>
+`=> [x] Received Second message...
+
 => [x] Received Fourth message...`
